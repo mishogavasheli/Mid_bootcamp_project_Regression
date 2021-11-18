@@ -64,7 +64,7 @@
 ###### By using [MySQL](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/MySQL/Mid_bootcamp%20project_Regression.sql) we tried to understand our dataset better. By answering the questions we saw better unique values of columns, in what kind of correlation are they between each other, the average price of properties, and other information and it helps to us to work with data.
 
 ##### 3.3 Preparing the Data by Python 
-###### After explore the dataset we started clean and prepare it for building the models.  
+###### After explore the dataset we started clean it in [Python](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/tree/main/Python) and prepare it for building the models.  
          Cleaning and preparation steps:
            - Check for NaN values and duplicates;
            - Drop columns: sqft_living, sqft_lot;
