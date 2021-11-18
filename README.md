@@ -103,3 +103,5 @@
 
 ## 5. Summary
 ###### This project entitled Mid-bootcamp project: Predict real estate price is useful in buying the houses, by predicting house prices, and thereby to guide their buyers accordingly. The proposed system is also useful to the buyers to predict the cost of house according to the area it is present. Gradient boosting algorithm has high accuracy value when compared to all other algorithms regarding house price prediction. There can be a further improvement to the metric by doing some pre-processing before fitting the data.
+
+##  Thank you for reading!
