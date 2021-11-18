@@ -58,7 +58,7 @@
 ## 3. Data exploration and preparation
 
 ##### 3.1 Explore the data by Tableau
-###### We used Tableau for visualisation and exploring the data further. We saw the most expensive area, what kind of houses are most required and in which years built properties cost more
+###### We used [Tableau](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Tableau/Mid%20bootcamp%20project%20-%20Regression.twbx) for visualisation and exploring the data further. We saw the most expensive area, what kind of houses are most required and in which years built properties cost more
 
 ##### 3.2 Explore the data by MySQL
 ###### By using [MySQL](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/MySQL/Mid_bootcamp%20project_Regression.sql) we tried to understand our dataset better. By answering the questions we saw better unique values of columns, in what kind of correlation are they between each other, the average price of properties, and other information and it helps to us to work with data.
@@ -66,8 +66,8 @@
 ##### 3.3 Preparing the Data by Python 
 ###### After explore the dataset we started clean and prepare it for building the models.  
 ###### Cleaning and preparation steps:
-###### Check for NaN values and duplicates
-###### Drop columns: sqft_living, sqft_lot
+         - Check for NaN values and duplicates
+         - Drop columns: sqft_living, sqft_lot
 ###### Corrected value of 33 bedrooms. After checking other metrics we decide change it for 3 bedrooms
 ###### Create a new column for age renovation, age of house and new date column for only month and year
 ###### Plots with matplot and seaborn;
