@@ -74,8 +74,8 @@
            - Check dataset correlation;
            - Explore relationships between variables;
            
-     
- ![alt-text-2](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/111.png "title-2")
+ ![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2020.52.30.png)
+    
 
 
 ## 4. Build the Models
@@ -97,7 +97,8 @@
 
 ##### 4.1 Round 1 -  Run all models 
 ##### 4.2 Round 2 - We dropped some columns with low correlation and removed outliers.
-![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2020.52.30.png)
+ ![alt-text-2](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/111.png "title-2")
+
 ##### 4.3 Round 3 - we normalized and scaled the data.
 
 
