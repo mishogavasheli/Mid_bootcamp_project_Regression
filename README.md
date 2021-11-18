@@ -65,14 +65,14 @@
 
 ##### 3.3 Preparing the Data by Python 
 ###### After explore the dataset we started clean and prepare it for building the models.  
-###### Cleaning and preparation steps:
-         - Check for NaN values and duplicates
-         - Drop columns: sqft_living, sqft_lot
-###### Corrected value of 33 bedrooms. After checking other metrics we decide change it for 3 bedrooms
-###### Create a new column for age renovation, age of house and new date column for only month and year
-###### Plots with matplot and seaborn;
-###### Check dataset correlation;
-###### Explore relationships between variables;
+         Cleaning and preparation steps:
+           - Check for NaN values and duplicates
+           - Drop columns: sqft_living, sqft_lot
+           - Corrected value of 33 bedrooms. After checking other metrics we decide change it for 3 bedrooms
+           - Create a new column for age renovation, age of house and new date column for only month and year
+           - Plots with matplot and seaborn;
+           - Check dataset correlation;
+           - Explore relationships between variables;
 
 
 ## 4. Build a Model
