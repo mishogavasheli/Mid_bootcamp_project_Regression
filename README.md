@@ -97,8 +97,7 @@
 
 ##### 4.1 Round 1 -  Run all models 
 ##### 4.2 Round 2 - We dropped some columns with low correlation and removed outliers.
- ![alt-text-2](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2017.54.19.png)
-
+![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2020.52.30.png)
 ##### 4.3 Round 3 - we normalized and scaled the data.
 
 
