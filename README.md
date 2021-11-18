@@ -96,6 +96,8 @@
 
 
 ##### 4.1 Round 1 -  Run all models 
+###### After running all models we realized that the best model is the "Gradient Boosting Regressor".  Train: 0.8951, Test: 0.8714
+
 ##### 4.2 Round 2 - We dropped some columns with low correlation and removed outliers.
  ![alt-text-2](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/111.png "title-2")
 
