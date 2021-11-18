@@ -4,7 +4,7 @@
 
 #### Table of content:
 <details><summary>
-<p>[1 **Overview**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.-,Overview,-1.1%20Team)</summary>
+<p>1 **Overview**</summary>
   - [1.1  Team](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.1-,Team,-DeepNoName%3A%20Gl%C3%B2ria%20Ibar) 
   - [1.2 Topic](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2%20Topic%3A%20Regression)
     - [1.2.1 Objective](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2%20Topic%3A%20Regression-,1.2.1%20Objective,-Our%20job%20is)
