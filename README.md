@@ -73,6 +73,9 @@
            - Plots with matplot and seaborn;
            - Check dataset correlation;
            - Explore relationships between variables;
+           
+     ![alt-text-1](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/111.png)[title-1](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/download%20(1).png?raw=true)
+     
 
 
 ## 4. Build the Models
