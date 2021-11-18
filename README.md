@@ -4,7 +4,7 @@
 
 #### Table of content:
 
-* <details><summary> [1 **Overview**]</summary> (https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=real%20estate%20price-,1.%20Overview,-1.1%20Team)
+* <details><summary> 1 **Overview** </summary> 
   <p>
     '''
   - [1.1  Team](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.1-,Team,-DeepNoName%3A%20Gl%C3%B2ria%20Ibar) 
