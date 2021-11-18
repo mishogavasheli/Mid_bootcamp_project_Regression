@@ -50,7 +50,7 @@
 
 ##### Schedule sheet
 
-![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2011.40.41.png?raw=true)
+![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=2.%20Timeline-,Schedule%20sheet,-3.%20Data%20exploration)
 
 
 ## 3. Data exploration and preparation
