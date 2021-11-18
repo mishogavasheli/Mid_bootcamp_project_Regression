@@ -9,7 +9,7 @@
     - [1.2.1 Objective](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2%20Topic%3A%20Regression-,1.2.1%20Objective,-Our%20job%20is)
     - [1.2.2 Scenario](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=650K%20and%20above.-,1.2.2%20Scenario,-We%20are%20working)
     - [1.2.3 Link to the Dataset](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2.3%20Link%20to%20the%20Dataset%3A) 
-* [2 **Timeline**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2011.40.41.png?raw=true)
+* [2 **Timeline**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=2.%20Timeline-,Schedule%20sheet,-3.%20Data%20exploration)
 * [3 **Data exploration and preparation**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=3.%20Data%20exploration%20and%20preparation)
     - [3.1 Explore the data by Tableau](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=exploration%20and%20preparation-,3.1%20Explore%20the%20data%20by%20Tableau,-We%20used%C2%A0Tableau)
     - [3.2 Explore the data by MySQL](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=properties%20cost%20more-,3.2%20Explore%20the%20data%20by%20MySQL,-By%20using%20MySQL)
@@ -50,7 +50,7 @@
 
 ##### Schedule sheet
 
-![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=2.%20Timeline-,Schedule%20sheet,-3.%20Data%20exploration)
+![alt text](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/Images/Screenshot%202021-11-18%20at%2011.40.41.png?raw=true)
 
 
 ## 3. Data exploration and preparation
