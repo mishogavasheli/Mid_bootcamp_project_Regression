@@ -4,18 +4,12 @@
 
 #### Table of content:
 
-* <details><summary> 1 **Overview** </summary> 
-  <p>
-    '''
+* [1 **Overview** ](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=real%20estate%20price-,1.%20Overview,-1.1%20Team)
   - [1.1  Team](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.1-,Team,-DeepNoName%3A%20Gl%C3%B2ria%20Ibar) 
   - [1.2 Topic](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2%20Topic%3A%20Regression)
     - [1.2.1 Objective](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2%20Topic%3A%20Regression-,1.2.1%20Objective,-Our%20job%20is)
     - [1.2.2 Scenario](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=650K%20and%20above.-,1.2.2%20Scenario,-We%20are%20working)
     - [1.2.3 Link to the Dataset](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.2.3%20Link%20to%20the%20Dataset%3A) 
-    '''
-</p>
-</details>
-    
     
 * [2 **Timeline**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=2.%20Timeline-,Schedule%20sheet,-3.%20Data%20exploration)
 * [3 **Data exploration and preparation**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=3.%20Data%20exploration%20and%20preparation)
