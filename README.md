@@ -5,7 +5,7 @@
 
 
 #### Table of content:
-* 1 **Overview**
+* 1 [**Overview**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.-,Overview,-1.1%20Team)
   - 1.1  Team 
   - 1.2 Topic
     - 1.2.1 Objective
