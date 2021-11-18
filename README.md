@@ -16,7 +16,7 @@
     - [3.1 Explore the data by Tableau](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=exploration%20and%20preparation-,3.1%20Explore%20the%20data%20by%20Tableau,-We%20used%C2%A0Tableau)
     - [3.2 Explore the data by MySQL](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=properties%20cost%20more-,3.2%20Explore%20the%20data%20by%20MySQL,-By%20using%20MySQL)
    - [3.2 Preparing the Data by Python](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=3.3%20Preparing%20the%20Data%20by%20Python) 
-* [4 **Build a Model**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=relationships%20between%20variables%3B-,4.%20Build%20a%20Model,-We%20used%20different)
+* [4 **Build the Models**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=relationships%20between%20variables%3B-,4.%20Build%20a%20Model,-We%20used%20different)
     - [4.1 Round 1](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=4.1%20Round%201%20-%20Run%20all%20models) 
     - [4.2 Round 2](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=4.2%20Round%202%20-%20We%20dropped%20some%20columns%20with%20low%20correlation%20and%20removed%20outliers.)
     - [4.3 Round 3](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=4.3%20Round%203%20-%20we%20normalized%20and%20scaled%20the%20data.)
@@ -75,15 +75,22 @@
            - Explore relationships between variables;
 
 
-## 4. Build a Model
+## 4. Build the Models
 ###### We used different models to compare the accuracies and find the model that best fits our data. 
      Our models:
-              - R2
-              - MSE mean_squared_error
-              - Decision trees 
+              - LinearRegression
+              - DecisionTreeRegressor 
               - Gradient Boosting Regressor
               - SVR Support Vector Regression
               - KNN
+              - Lasso
+              - Ridge
+              - ElasticNet
+              - RandomForestRegressor
+              
+              
+              
+
 
 ##### 4.1 Round 1 -  Run all models 
 ##### 4.2 Round 2 - We dropped some columns with low correlation and removed outliers.
@@ -92,3 +99,4 @@
 
 
 ## 5. Summary
+###### This project entitled Mid-bootcamp project: Predict real estate price is useful in buying the houses, by predicting house prices, and thereby to guide their buyers accordingly. The proposed system is also useful to the buyers to predict the cost of house according to the area it is present. Gradient boosting algorithm has high accuracy value when compared to all other algorithms regarding house price prediction. There can be a further improvement to the metric by doing some pre-processing before fitting the data.
