@@ -1,9 +1,6 @@
 # Mid-bootcamp project - Regression
 
 
-<details><summary>CLICK ME</summary>
-<p>
-
 
 #### Table of content:
 * <details><summary>[1 **Overview**](https://github.com/mishogavasheli/Mid_bootcamp_project_Regression/blob/main/README.md#:~:text=1.-,Overview,-1.1%20Team)</summary>
